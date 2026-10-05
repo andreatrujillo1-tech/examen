@@ -2,7 +2,7 @@
 
 **Examen individual · 60 minutos · 50 puntos · Sin IA.**
 
-Adapte **solo `modificar_reserva` en `reservas.py`**, agregue pruebas en
+Adapte **solo `modificar_reserva` en `tests/reservas.py`**, agregue pruebas en
 `tests/test_estudiante.py` y complete `ENTREGA.md`. Conserve las funciones
 auxiliares, las firmas, `pytest.ini` y las pruebas base sin cambios.
 
